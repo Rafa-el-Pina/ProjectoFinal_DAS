@@ -3,10 +3,15 @@
 ## Integrantes do Grupo
 - Nome do projeto:
 - Integrantes:
-- Repositório: [link]
+   Rui Cruz nº 2025139
+   Marcos Santos nº 2024293  
+   Emerson Baldé nº 2025160
+   Rafael Pina nº 2025014
+- Repositório: https://github.com/Rafa-el-Pina/ProjectoFinal_DAS
 
 ## Branches Criadas
 - Descreva as branches criadas e o objetivo de cada uma.
+    Branch bolo-cenoura: Receita de um Bolo de Cenoura
 - Informe como os merges foram realizados (com PR? Revisão?).
 
 ## Histórico de Commits
@@ -27,6 +32,9 @@ Dúvidas ou problemas que surgiram.
 
 ## Principais Comandos Git Utilizados
 Liste e comente comandos importantes usados no projeto.
+
+
+
 
 ## Conclusão
 Aprendizados principais do grupo com a atividade.
