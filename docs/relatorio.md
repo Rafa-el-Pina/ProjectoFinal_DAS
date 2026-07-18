@@ -3,10 +3,10 @@
 ## Integrantes do Grupo
 - Nome do projeto:
 - Integrantes:
-   Rui Cruz nº 2025139
-   Marcos Santos nº 2024293  
-   Emerson Baldé nº 2025160
-   Rafael Pina nº 2025014
+   - Rui Cruz nº 2025139
+   - Marcos Santos nº 2024293  
+   - Emerson Baldé nº 2025160
+   - Rafael Pina nº 2025014
 - Repositório: https://github.com/Rafa-el-Pina/ProjectoFinal_DAS
 
 ## Branches Criadas
