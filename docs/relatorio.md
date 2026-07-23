@@ -7,7 +7,6 @@
    - Marcos Santos nº 2024293  
    - Emerson Baldé nº 2025160
    - Rafael Pina nº 2025014
-   - Paulo Marçal nº2025487
 - Repositório: https://github.com/Rafa-el-Pina/ProjectoFinal_DAS
 
 ## Branches Criadas
