@@ -25,3 +25,18 @@
   
 # Cozimento do feijão: 
 - escorra o feijão que ficou de molho e adicione à panela com água suficiente para cobrir. Cozinhe até o feijão ficar macio.
+
+## Finalização 
+# Engrossar o caldo: 
+- retire uma concha de feijão cozido, amasse e devolva à panela para engrossar naturalmente o caldo. Ajuste o sal e a pimenta.
+# Finalização:
+- deixe descansar por 10 minutos antes de servir. Sirva com arroz branco, couve refogada, farofa e fatias de laranja.
+
+## Dicas
+# Dicas Importantes
+- Comece o preparo na véspera para dessalgar as carnes corretamente.
+- Para uma feijoada mais leve, retire o excesso de gordura, use bacon magro e substitua algumas carnes por frango defumado ou pernil magro.
+- O feijão preto é essencial para a textura cremosa do prato; evite substituí-lo por feijão carioca.
+- A feijoada fica ainda mais saborosa no dia seguinte, pois os temperos se intensificam.
+- Pode ser congelada em porções individuais e reaquecida em fogo baixo ou micro-ondas, adicionando um pouco de água se necessário.
+- Essa receita garante uma feijoada encorpada, saborosa e equilibrada, perfeita para almoços em família ou ocasiões especiais, mantendo a tradição brasileira do prato
